@@ -1,0 +1,170 @@
+#header
+{
+background-color: black;
+height: 10px;
+weidth=100%;
+}
+#content
+{
+    
+    width:70%;
+   
+    margin: auto;
+}
+.image
+{
+    opacity: 0.8;
+}
+#container
+{
+    background-color: rgb(250, 230, 246);
+}
+#container img
+{ 
+    height:90px;
+    width: 300px;
+    opacity: 0.5;
+}
+#container ul
+{
+    float:right;
+    font-size: large;
+    margin-top: 30px;
+}
+#container ul li
+{
+   
+   display: inline;
+   margin-right: 25px;
+}
+#container ul li a
+{
+    font-style: italic;
+    color: darkslategrey;
+     text-decoration: none;
+}
+#title
+{
+    background-color: black;
+    font-family: fantasy;
+    color: white;
+    margin-top: 10px;
+    height: 30px;
+}
+
+#poster img
+{
+    width: 100%;
+    height: 500px;
+    margin-top: 10px;
+}
+#content1
+{
+    margin-top: 10px;
+    background-color: brown;
+    height: 350px;
+    width: 300px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.more
+{
+    text-decoration: none;
+    background-color: aliceblue;
+    margin-left: 20px;
+    font-size: larger;
+}
+#content2
+{
+    background-color: black;
+    height: 350px;
+    width: 300px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 40px;
+
+}
+.more2
+{
+    text-decoration: none;
+    background-color: aliceblue;
+    margin-left: 20px;
+    font-size: larger;
+}
+
+
+#content3
+{
+    background-color: rgb(11, 224, 64);
+    height: 350px;
+    width: 300px;
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 30px;
+
+}
+.more3
+{
+    text-decoration: none;
+    background-color: aliceblue;
+    margin-left: 20px;
+    font-size: larger;
+}
+#bottom1
+{
+    width: 50%;
+
+    margin-top: 10px;
+    margin-left: 10px;
+    float:left;
+
+}
+#bottom2
+{
+    width: 40%;
+  
+    margin-top: 10px;
+    float: right;
+    margin-right: 10px;
+
+}
+#bottom2 img
+{
+    width: 100%;
+}
+#footer
+{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    clear: both;
+    margin-top: 790px;
+
+}
+#footer ul
+{
+    float:left;
+    font-size: large;
+    margin-top: 10px;
+}
+#footer ul li
+{
+   
+   display: inline;
+   margin-right: 25px;
+}
+#footer ul li a
+{
+    font-style: italic;
+    color: rgb(225, 240, 240);
+     text-decoration: none;
+}
+#footer p
+{
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    color: white;
+}

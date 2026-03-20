@@ -1,0 +1,130 @@
+#header
+{
+    background-color: black;
+    width: 100%;
+    height: 10px;
+}
+#container
+{
+    width: 70%;
+    margin: auto;
+}
+#container img
+{
+    margin-top: 10px;
+    height:90px;
+    width: 300px;
+}
+#container ul
+{
+    float:right;
+    font-size: large;
+    margin-top: 40px;
+}
+#container ul li
+{
+   
+   display: inline;
+   margin-right: 25px;
+}
+#container ul li a
+{
+    font-style: italic;
+    color: darkslategrey;
+    text-decoration: none;
+}
+
+#content ul
+{
+    width: 100%;
+    margin-top: 10px;
+    background-color: indianred ;
+    padding: 10px;
+    color: whitesmoke;
+    
+}
+#content ul li
+{
+   margin-inline:auto ;
+}
+#content1
+{
+    background-color: rgb(4, 84, 84);
+    width: 30%;
+    height: 340px ;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#content2
+{
+    background-color: rgb(4, 84, 84);
+     width: 30%;
+    height: 340px ;
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+#content3
+{
+    background-color: rgb(4, 84, 84);
+     width: 30%;
+    height: 340px ;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+#content4
+{
+    background-color: rgb(4, 84, 84);
+     width: 30%;
+    height: 300px ;
+    float: left;
+    margin-left: 180px;
+    margin-top: 20px;
+
+}
+#content5
+{
+     background-color: rgb(4, 84, 84);
+     width: 30%;
+    height: 300px ;
+    float: right;
+    margin-right: 180px;
+    margin-top: 20px;
+
+}
+#footer
+{
+    height: 50px;
+    width:auto;
+    background-color: black;
+    clear: both;
+    margin-top: 700px;
+
+}
+#footer ul
+{
+    float:left;
+    font-size: large;
+    margin-top: 10px;
+}
+#footer ul li
+{
+   
+   display: inline;
+   margin-right: 25px;
+}
+#footer ul li a
+{
+    font-style: italic;
+    color: rgb(225, 240, 240);
+     text-decoration: none;
+}
+#footer p
+{
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    color: white;
+}

@@ -1,0 +1,40 @@
+#header
+{
+    background-color: black;
+    width: 100%;
+    height: 10px;
+}
+#container
+{
+    width: 70%;
+    margin: auto;
+}
+#container img
+{
+    margin-top: 10px;
+    height:90px;
+    width: 300px;
+}
+#container ul
+{
+    float:right;
+    font-size: large;
+    margin-top: -50px;
+}
+#container ul li
+{
+   
+   display: inline;
+   margin-right: 25px;
+}
+#container ul li a
+{
+    font-style: italic;
+    color: darkslategrey;
+    text-decoration: none;
+}
+#gallery img
+{
+width: 350px;
+height: 350px;
+}
